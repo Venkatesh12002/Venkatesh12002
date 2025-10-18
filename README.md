@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Venkatesh R</h1>
+<h1 align="center">Hi 👋, I'm Venkatesh R <p align="center">
+  <img src="./encrypt_giffy.gif" width="100"/>
+</p></h1>
 <h3 align="center">Full-Stack Web & Mobile App Developer | React, Next.js & Flutter | Freelancer</h3>
 
 <p align="center">
