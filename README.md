@@ -57,9 +57,9 @@ I specialize in **React, Next.js, Tailwind CSS, and Flutter** to turn ideas into
 ---
 
 ## Fiverr Gigs
-- ✅ [https://www.fiverr.com/s/R7Krkr8](https://www.fiverr.com/s/EgQrpPd)
-- ✅ [https://www.fiverr.com/s/R7Krkr8](https://www.fiverr.com/s/428zoZd)
-- ✅ [https://www.fiverr.com/s/R7Krkr8](https://www.fiverr.com/s/kLK8weA)
+- ✅ [3d architectural models, interior models, realistic 3d rendering](https://www.fiverr.com/s/EgQrpPd)
+- ✅ [1 by 1 Email Sending..](https://www.fiverr.com/s/428zoZd)
+- ✅ [Business Cards & Stationary designs](https://www.fiverr.com/s/kLK8weA)
 
 ## 📫 Contact Me
 - ✉ Email: venkatesh7122002@gmail.com  
