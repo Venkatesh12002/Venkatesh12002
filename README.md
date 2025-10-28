@@ -56,10 +56,15 @@ I specialize in **React, Next.js, Tailwind CSS, and Flutter** to turn ideas into
 
 ---
 
+## Fiverr Gigs
+- ✅ [https://www.fiverr.com/s/R7Krkr8](https://www.fiverr.com/s/EgQrpPd)
+- ✅ [https://www.fiverr.com/s/R7Krkr8](https://www.fiverr.com/s/428zoZd)
+- ✅ [https://www.fiverr.com/s/R7Krkr8](https://www.fiverr.com/s/kLK8weA)
+
 ## 📫 Contact Me
 - ✉ Email: venkatesh7122002@gmail.com  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/devenkcrypt/]
-- 🔗 Fiverr: [https://www.fiverr.com/s/o89WwRb]
+
 
 ---
 
