@@ -58,7 +58,8 @@ I specialize in **React, Next.js, Tailwind CSS, and Flutter** to turn ideas into
 
 ## 📫 Contact Me
 - ✉ Email: venkatesh7122002@gmail.com  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/devenkcrypt/]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/devenkcrypt/]
+- 🔗 Fiverr: [https://www.fiverr.com/s/o89WwRb]
 
 ---
 
